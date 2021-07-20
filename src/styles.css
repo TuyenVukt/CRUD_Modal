@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+.new-button{
+    padding: 10px;
+  }
+  .btn{
+    margin-right: 10px;
+  }
+  .fa {
+    margin-right: 10px;
+  }
